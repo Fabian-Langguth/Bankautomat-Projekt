@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bankautomat-Projekt", "Bankautomat-Projekt.csproj", "{73A4D6B2-AECB-49B8-8854-8F237CE5F706}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73A4D6B2-AECB-49B8-8854-8F237CE5F706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73A4D6B2-AECB-49B8-8854-8F237CE5F706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73A4D6B2-AECB-49B8-8854-8F237CE5F706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73A4D6B2-AECB-49B8-8854-8F237CE5F706}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E7ED2AB-F76F-4F36-9EB1-09859C5C54BC}
+	EndGlobalSection
+EndGlobal
